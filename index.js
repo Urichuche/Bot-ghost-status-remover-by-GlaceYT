@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Viendo /info","Ip: PROXIMAMENTE : BRUNEITHOR NO CHAMBEA"];
+const statusMessages = ["Viendo **/info**","Viendo **/ip**","Viendo **/redes**"];
 
 
 let currentIndex = 0;
